@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogame_VS2019_Sandsimulator", "Monogame_VS2019_Sandsimulator\Monogame_VS2019_Sandsimulator.csproj", "{384B6581-4A56-4B0C-8CBC-EB24635748DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384B6581-4A56-4B0C-8CBC-EB24635748DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384B6581-4A56-4B0C-8CBC-EB24635748DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384B6581-4A56-4B0C-8CBC-EB24635748DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384B6581-4A56-4B0C-8CBC-EB24635748DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29E7651-883A-4D26-9DFF-53C2599294E0}
+	EndGlobalSection
+EndGlobal
